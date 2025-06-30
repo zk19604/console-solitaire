@@ -1,1 +1,1 @@
-# console-solitaire
+# console-based-solitaire
